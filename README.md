@@ -1,16 +1,15 @@
-## Hi there 👋
+# David Membreno
 
-<!--
-**DavidMembreno/DavidMembreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Systems-oriented • Integration-focused**
 
-Here are some ideas to get you started:
+I build software that works across systems, with growing focus on runtime behavior and system boundaries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Focus Areas
+- Systems-oriented software engineering
+- Cross-component and cross-runtime integration
+- Object-oriented design and clean architecture
+- Client–server and network-adjacent systems
+- ML deployment and evaluation as an engineering problem
+- Data analysis to support system behavior, performance, and decisions
