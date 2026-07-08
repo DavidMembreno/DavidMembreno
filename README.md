@@ -3,8 +3,6 @@
 
 I build software that works across systems, with growing focus on cross-component integration and clean system design.
 
-> Currently building: **IterETA** — FastAPI + React capstone for itinerary and ETA tracking
-
 ---
 
 ### Tech stack
