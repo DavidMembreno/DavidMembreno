@@ -21,12 +21,12 @@ I build software that works across systems, with growing focus on cross-componen
 
 ### Focus areas
 
-- Systems-oriented software engineering
-- Cross-component and cross-runtime integration
-- Object-oriented design and clean architecture
-- Client-server and network-adjacent systems
-- ML deployment and evaluation as an engineering problem
-- Data analysis to support system behavior, performance, and decisions
+- Designing systems end-to-end, from requirements and use cases to working software
+- Translating stakeholder needs into clear documentation, UML models, and test plans
+- Object-oriented design in Java, from a from-scratch graphics pipeline to a database-backed auth system
+- Secure application design, including authentication, account protection, and database safety
+- Data analysis with Python and SQL to support decisions
+- Deploying ML models to real hardware, like real-time detection on a Raspberry Pi
 
 ---
 
